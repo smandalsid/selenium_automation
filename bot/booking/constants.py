@@ -1,0 +1,2 @@
+BASE_URL="https://www.booking.com"
+# BASE_URL="https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1BCAEoggI46AdIM1gEaGyIAQGYAQm4ARnIAQzYAQHoAQGIAgGoAgO4Aoaz7aIGwAIB0gIkYmZiMzYxMjMtN2M0Yy00Mzk2LWI5NTMtMTY5N2E1NGY2OGE52AIF4AIB&sid=aa8525cd9a2488ad76149cebf8702133&aid=304142&ss=Munnar&ssne=Munnar&ssne_untouched=Munnar&lang=en-gb&dest_id=-2105113&dest_type=city&checkin=2023-05-17&checkout=2023-05-21&group_adults=2&no_rooms=1&group_children=0&sb_travel_purpose=leisure&nflt=class%3D4%3Bclass%3D5&order=price"
